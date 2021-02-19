@@ -1,0 +1,27 @@
+Web Hosting Lowongan Kerja
+
+http://chelloana-lowongankerja.eu5.org/ftp/
+
+email : chelloana@gmail.com
+pass  : lowongankerja15
+
+control panel
+username : chelloana-lowongankerja.eu5.org
+pass	 : lowongankerja15
+
+FTP
+Host	 : chelloana-lowongankerja.eu5.org
+Username : chelloana-lowongankerja.eu5.org
+PassWord : lowongankerja15
+
+mysql
+Database name: 244176
+Database username: 244176
+Database password: lowongankerja15
+Database host: localhost
+
+<?php 
+
+	$conn = mysqli_connect("localhost","244176","lowongankerja15","244176");
+
+?>
